@@ -44,7 +44,7 @@ favicon: /img/favicon.png
 
 # Avatar (頭像)
 avatar:
-  img: /images/头像.jpg
+  img: /imgs/头像.jpg
   effect: false
 
 # Disable all banner image
@@ -54,7 +54,7 @@ disable_top_img: false
 index_img:
 
 # If the banner of page not setting, it will show the top_img
-default_top_img:
+default_top_img: /imgs/top.jpg
 
 # The banner image of archive page
 archive_img:
