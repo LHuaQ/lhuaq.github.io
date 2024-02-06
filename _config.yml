@@ -7,13 +7,13 @@ title: 终不似，少年游
 subtitle: ''
 description: '志不求易者成，事不避难者进'
 keywords:
-author: lidrem
+author: LiDrem
 language: zh-CN
 timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: http://lidream.cn
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -105,3 +105,11 @@ deploy:
   repo: https://github.com/lishangyi/lishangyi.github.io
   # example, https://github.com/hexojs/hexojs.github.io
   branch: blog
+kramed:
+  gfm: true
+  pedantic: false
+  sanitize: false
+  tables: true
+  breaks: true
+  smartLists: true
+  smartypants: true
