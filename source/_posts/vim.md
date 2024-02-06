@@ -1,6 +1,7 @@
 ---
 title: vim
 date: 2024-02-06 23:15:00
+categories: 学习笔记
 tags: 计算机、常用工具
 keyword: Vim
 cover: /imgs/vim.png
