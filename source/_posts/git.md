@@ -1,10 +1,15 @@
 ---
 title: Git的常用命令
 date: 2024-2-6
-tags: 计算机、常用工具
-categories: 学习笔记
-keywords: Git
-description: Git是一个分布式版本控制系统，用于跟踪文件和项目的变化。它最初由Linus Torvalds创建，用于管理Linux内核的开发。Git的主要目标是提供一种高效、灵活、可靠的版本控制系统，能够处理从小型项目到大型项目的所有需求。
+tags: 
+- 计算机
+- 常用工具
+categories: 
+- 学习笔记
+keywords: 
+- Git
+description: 
+- Git是一个分布式版本控制系统，用于跟踪文件和项目的变化。它最初由Linus Torvalds创建，用于管理Linux内核的开发。Git的主要目标是提供一种高效、灵活、可靠的版本控制系统，能够处理从小型项目到大型项目的所有需求。
 cover: /imgs/git.gif
 ---
 

@@ -1,9 +1,13 @@
 ---
 title: markdown常用语法
 date: 2024-02-06 23:19:34
-categories: 学习笔记
-tags: 计算机、常用工具
-keywords: markdown
+categories: 
+- 学习笔记
+tags: 
+- 计算机
+- 常用工具
+keywords: 
+- markdown
 cover: /imgs/markdown_cover.png
 ---
 
